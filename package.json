@@ -1,6 +1,6 @@
 {
     "name": "named-merge-sort",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Merge sort an array of objects based on a property or sort an array of values",
     "preferGlobal": "false",
     "main": "index.js",
