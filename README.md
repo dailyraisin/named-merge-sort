@@ -2,6 +2,8 @@
 
 Merge sort an array of objects based on a property or sort an array of values.
 
+    var mergeSort = require('named-merge-sort');
+
     var things = [
         '2013-01',
         '2014-12',

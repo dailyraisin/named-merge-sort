@@ -60,6 +60,6 @@ var mSort = function (arr, tmp, l, member, direction) {
     return merge(tempLeft, tempRight, arr, member, direction);
 };
 
-var mergeSort = function (arr, member, direction) {
+module.exports = function (arr, member, direction) {
     return mSort(arr, arr.slice(), arr.length, member, direction);
 };
