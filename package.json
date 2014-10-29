@@ -1,0 +1,13 @@
+{
+    "name": "named-merge-sort",
+    "version": "0.0.1",
+    "description": "Merge sort an array of objects based on a property or sort an array of values",
+    "preferGlobal": "false",
+    "main": "index.js",
+    "author": "Daily Raisin LLC ",
+    "keywords": ["merge sort"],
+    "repository" : {
+        "type": "git",
+        "url": "https://github.com/dailyraisin/named-merge-sort"
+    }
+}
