@@ -17,9 +17,5 @@
     "unused": true,
     "strict": true,
     "trailing": true,
-    "smarttabs": true,
-    "globals": {
-        "angular": true,
-        "MBP": true
-    }
+    "smarttabs": true
 }
