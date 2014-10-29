@@ -2,6 +2,8 @@
 
 Merge sort an array of objects based on a property or sort an array of values.
 
+Based on merge sort found on [rosetta code](http://rosettacode.org/wiki/Sorting_algorithms/Merge_sort#JavaScript).
+
     var mergeSort = require('named-merge-sort');
 
     var things = [
